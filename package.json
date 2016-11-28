@@ -21,13 +21,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kirjs/react-highcharts"
+    "url": "https://github.com/pierrecholhot/react-highcharts"
   },
   "peerDependencies": {
     "react": "~0.14 || ^15.0.0",
     "react-dom": "~0.14 || ^15.0.0"
   },
-  "bugs": "https://github.com/kirjs/react-highcharts/issues",
+  "bugs": "https://github.com/pierrecholhot/react-highcharts/issues",
   "keywords": [
     "chart",
     "react",
@@ -58,6 +58,6 @@
     "webpack-dev-server": "^1.10.1"
   },
   "dependencies": {
-    "highcharts": "^5.0.0"
+    "highcharts": "latest"
   }
 }
